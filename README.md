@@ -1,6 +1,10 @@
 # Data-Driven-Job-Market-Analytics---Tableau
 
-1. Introduction
+Tableau Dashboard
+
+![Dashboard 1](https://github.com/user-attachments/assets/9a82e458-e8e1-4125-889a-4ef5f5d987f4)
+
+
 ## 1.1 Background
 
 In the digital era, data science is crucial for innovation across industries. This report provides insights into the data science job market, analyzing trends and identifying key drivers shaping demand for data science talent. It serves as a guide for employers and job seekers in navigating this dynamic field.
